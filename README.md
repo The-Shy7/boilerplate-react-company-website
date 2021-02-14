@@ -1,6 +1,10 @@
 # Company Website Template
 This is a React JS project that showcases a company website template.
 
+Utilized Zeit/Vercel to host the project.
+
+Visit this link to preview the site: https://boilerplate-react-company-website.vercel.app/
+
 ## About this project
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
