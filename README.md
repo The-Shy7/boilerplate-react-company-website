@@ -1,5 +1,5 @@
 # Company Website Template
-This is a React JS project that showcases a company website template built using React.
+This is a React JS project that showcases a company website template.
 
 ## About this project
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
